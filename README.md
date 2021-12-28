@@ -1,8 +1,7 @@
 # Node.js TypeScript bootstrapping
 
-- [Node.js TypeScript bootstrapping](#nodejs-typescript-bootstrapping)
-  - [Development](#development)
-  - [Deployment](#deployment)
+- [Development](#development)
+- [Deployment](#deployment)
 
 
 ## Development
